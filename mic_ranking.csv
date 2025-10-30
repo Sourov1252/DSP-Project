@@ -1,0 +1,4 @@
+mic,SNR_dB_mean,THD_pct_mean,THD_N_dB_mean,NoiseFloor_dbfs_mean,Score_final_mean,Score_final_std,N
+MicB,13.13,0.61,-13.12,-120.32,42.62,3.39,8
+MicA,10.31,2.09,-10.29,-109.23,25.42,4.22,8
+MicC,3.82,5.83,-3.78,-101.03,22.73,0.00,8
